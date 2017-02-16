@@ -1,5 +1,0 @@
-/*************************************************************
-  File:      ME210Lab2.ino
-  Contents:  
-  Notes:     Target: Arduino Uno
-             
